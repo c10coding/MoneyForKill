@@ -1,0 +1,6 @@
+name: MoneyForKill
+version: 1.0
+author: Caleb
+main: me.caleb.MoneyForKill.Main
+description: Plugin for kitPVP
+depend: [Vault]
